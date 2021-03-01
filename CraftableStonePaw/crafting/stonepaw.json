@@ -1,0 +1,8 @@
+{
+    "id" : "stonepaw",
+    "craftedFrom" : "pawpath : 1, stardust : 1",
+    "craftingMachine" : "workbench_1",
+    "craftingCommand" : "Craft",
+    "craftingRequires" : "",
+    "base" : false
+}

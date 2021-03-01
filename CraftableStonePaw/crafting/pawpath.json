@@ -1,0 +1,8 @@
+{
+    "id" : "pawpath",
+    "craftedFrom" : "stone : 50",
+    "craftingMachine" : "workbench_1",
+    "craftingCommand" : "Craft",
+    "craftingRequires" : "",
+    "base" : false
+}
